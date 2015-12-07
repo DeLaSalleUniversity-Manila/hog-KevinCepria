@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\kevincepria\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\AndroidStudioProjects\HOGFeatures\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_c542571bc7c524dc62bd9bcb6dbb304e3e1acd24.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\HOGFeatures\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\AndroidStudioProjects\HOGFeatures\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_413749b114e32d2ca3f3622f48abd3d84d248c45.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\HOGFeatures\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e146a3cb9231913624cfd280013123f3ee731dba">
+        <dex dex="D:\AndroidStudioProjects\HOGFeatures\app\build\intermediates\pre-dexed\debug\instant-run_a655201cf784bf08aa02431892d6e2a4143c9399.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\HOGFeatures\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\AndroidStudioProjects\HOGFeatures\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_c17b297cb0790ec880cceaae709915ad68085b2d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\HOGFeatures\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\AndroidStudioProjects\HOGFeatures\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_a1aba88a8f2a1ebdf1db1a445e70f140aa1e7d52.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\HOGFeatures\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1f9232edb6b90825efaabe126f5b39760508011f">
+        <dex dex="D:\AndroidStudioProjects\HOGFeatures\app\build\intermediates\pre-dexed\debug\classes_6032b09d9ff0b8c8802e95aaa768d04592c79251.jar" />
+    </item>
+
+</items>
